@@ -1,4 +1,4 @@
-### Criado por G4L1L3U em 30/06/2022
+### Criado por Vitor Luciano em 30/06/2022
 ### Código contendo comandos básicos para ir bem na disciplina de Bioestatística (GES105)
 ### Mãe e vó, amo vocês! 
 
